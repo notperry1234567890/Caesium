@@ -11,7 +11,7 @@ Caesium is a powerful Java bytecode obfuscator written by [sim0n](https://github
 * Line Number
 * Number
 * Polymorph
-* Reference (invokedynamics)
+* Reference (Invokedynamics)
 * String
 
 ## Notes
